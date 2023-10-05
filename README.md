@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MisterPy15
+- 👋 Hi, I’m @MisterPy
 - 👀 I’m interested in web devlopement
 - 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on GitHub
