@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **agohchris90@gmail.com**
 
-- 🎓 **Certifications:**  
+- 🎓 **Certifications HackerRanck:**  
   - ✅ Python  
   - ✅ Software Engineering
 
