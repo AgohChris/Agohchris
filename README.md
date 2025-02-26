@@ -73,6 +73,6 @@
 ---
 
 ### 📊 GitHub Stats  
-![Agoh Chris' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agohchris15&show_icons=true&theme=radical)  
+![Agoh Chris' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agohchris&show_icons=true&theme=radical)  
 
 ---
