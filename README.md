@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Agoh Chris</h1>
+<h1 align="center">Hi 👋, I am Agoh Chris (Py)</h1>
 <h3 align="center">Computer science student Software Engineering | Aspiring DataScientist, passionate about AI, Backend Development and Databases and Cybersecurity</h3>
 
 - 🔭 Currently I am working on creating a micro service in Java **Service_RMI**
