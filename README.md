@@ -26,7 +26,6 @@ class AgohChris:
     focus      = ["Backend Development", "Artificial Intelligence", "Databases", "Cybersecurity"]
     languages  = ["Python", "Java"]
     current    = "Building Service_RMI — a microservice architecture in Java"
-    motto      = "⚡ Je ne dors pas, je compile mes rêves en Python."
     mail       = "agohchris90@gmail.com"
 ```
 
